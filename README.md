@@ -1,16 +1,20 @@
-# final_mobileapps
+# Multilingual Mobile Application
 
-A new Flutter project.
+A cross-platform Flutter mobile application featuring multilingual support and federated authentication, designed to deliver a seamless user experience across different languages and devices.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Multilingual Support  
+  - English, Spanish, and French localization  
 
-A few resources to get you started if this is your first Flutter project:
+- Federated Authentication  
+  - Supports sign-in with Google and other identity providers  
+  - Secure and user-friendly login flow
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- AI-Powered Study Assistant  
+  - Uses AI to help students study by generating content, practice questions, or study tips  
+  - Personalized suggestions based on user interaction
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
